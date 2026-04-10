@@ -1,0 +1,22 @@
+[
+  {
+    "host": "hypixel.net",
+    "port": 25565,
+    "name": "Hypixel Network"
+  },
+  {
+    "host": "mineplex.com",
+    "port": 25565,
+    "name": "Mineplex"
+  },
+  {
+    "host": "play.cubecraft.net",
+    "port": 25565,
+    "name": "CubeCraft Games"
+  },
+  {
+    "host": "mc.hypixel.net",
+    "port": 25565,
+    "name": "Hypixel (alt)"
+  }
+]
